@@ -1,0 +1,11 @@
+.btnFeedback {
+  padding: 10px 15px;
+  margin-right: 10px;
+  color: white;
+  background-color: rgb(110, 107, 107);
+}
+.btnFeedback:hover,
+.btnFeedback:focus {
+  border: 2px solid blueviolet;
+  color: rgb(124, 170, 215);
+}
